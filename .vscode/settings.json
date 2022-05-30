@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "semaphore.h": "c",
+        "random": "cpp",
+        "numeric": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
